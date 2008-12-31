@@ -1,7 +1,8 @@
 #summary testpage
 = Introduction =
 
-In theory, we have several pairs antennas with shifting (from the point of view of sources), and a measurement of visibilities (complex cross-correlations) for each baseline. Taking a two-dimensional Fourier Transform of the visibilities, we get an intensity map of the sky in two dimensions 
+In principle we measure spectral cross-correlation coefficients averaged over desired time intervals between several pairs of antennas. We obtain an intensity map of the sky in two dimensions by taking a two-dimensional Fourier Transform of the cross-correlations thus obtained. This is the technique of [aperture synthesis].
+
 
 
 = Details =
