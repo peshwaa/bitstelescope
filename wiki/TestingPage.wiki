@@ -1,7 +1,7 @@
 #summary testpage
 = Introduction =
 
-In principle we measure spectral cross-correlation coefficients averaged over desired time intervals between several pairs of antennas. We obtain an intensity map of the sky in two dimensions by taking a two-dimensional Fourier Transform of the cross-correlations thus obtained. This is the technique of [aperture synthesis].
+In principle we measure spectral cross-correlation coefficients averaged over desired time intervals between several pairs of antennas. We obtain an intensity map of the sky in two dimensions by taking a two-dimensional Fourier Transform of the cross-correlations thus obtained. This is the technique of [Aperture Synthesis Imaging].
 
 
 
