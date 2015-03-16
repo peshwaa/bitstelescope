@@ -1,0 +1,1 @@
+This is a testing project documentation/wiki meant to document the various stages of coding for the BITS Radio Telescope. Authors may enter their code here, or edit the wiki.
